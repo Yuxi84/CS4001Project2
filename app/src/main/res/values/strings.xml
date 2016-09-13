@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Accelerometer</string>
     <string name="_0">0</string>
+    <string name="CapY">Y</string>
+    <string name="CapZ">Z</string>
+    <string name="CapX">X</string>
+    <string name="permissionRationale">This app requires location data. Please enable your GPS data.</string>
+    <string name="Latitude_text">Latitude</string>
+    <string name="Longitude_text">Longitude</string>
 </resources>
